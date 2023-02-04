@@ -1,0 +1,1252 @@
+20211102T231005: responsesync.net/index.php
+PHP Notice:  Undefined variable: mypassword in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 47
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 52
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in 
+20211102T235321: responsesync.net/pages/index.php
+PHP Notice:  Undefined index: username in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 8
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 9
+PHP Notice:  Undefined index: employeeName in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+PHP Notice:  Undefined index: position in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/
+20211103T005549: responsesync.net/pages/index.php
+PHP Notice:  Undefined property: stdClass::$name in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 207
+PHP Notice:  Undefined property: stdClass::$weather in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 211
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 211
+PHP Notice:  Trying to get property 'description' of no
+20211103T005628: responsesync.net/pages/index.php
+PHP Notice:  Undefined property: stdClass::$name in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 207
+PHP Notice:  Undefined property: stdClass::$weather in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 211
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 211
+PHP Notice:  Trying to get property 'description' of no
+20211103T010317: responsesync.net/pages/index.php
+PHP Notice:  Undefined property: stdClass::$name in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 207
+PHP Notice:  Undefined property: stdClass::$weather in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 211
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 211
+PHP Notice:  Trying to get property 'description' of no
+20211103T010421: responsesync.net/pages/index.php
+PHP Parse error:  syntax error, unexpected '<', expecting end of file in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 177
+
+20211103T010435: responsesync.net/pages/index.php
+PHP Parse error:  syntax error, unexpected '<', expecting end of file in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 177
+
+20211103T010437: responsesync.net/pages/index.php
+PHP Parse error:  syntax error, unexpected '<', expecting end of file in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 177
+
+20211103T010449: responsesync.net/pages/index.php
+PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 178
+PHP Warning:  file_get_contents(http://api.openweathermap.org/data/2.5/weather?q=manila&amp;units=metric&amp;lang=en&amp;appid=c0c4a4b4047b97ebc5948ac9c48c0559): failed to open stream: no suitable wrapper could be found in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.ph
+20211103T010516: responsesync.net/pages/index.php
+PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 178
+PHP Warning:  file_get_contents(http://api.openweathermap.org/data/2.5/weather?q=manila&amp;units=metric&amp;lang=en&amp;appid=c0c4a4b4047b97ebc5948ac9c48c0559): failed to open stream: no suitable wrapper could be found in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.ph
+20211103T010519: responsesync.net/pages/index.php
+PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 178
+PHP Warning:  file_get_contents(http://api.openweathermap.org/data/2.5/weather?q=manila&amp;units=metric&amp;lang=en&amp;appid=c0c4a4b4047b97ebc5948ac9c48c0559): failed to open stream: no suitable wrapper could be found in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.ph
+20211103T052415: responsesync.net/index.php
+PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 110
+
+20211103T052441: responsesync.net/index.php
+PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 110
+
+20211103T052442: responsesync.net/index.php
+PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 110
+
+20211103T052558: responsesync.net/index.php
+PHP Notice:  Undefined variable: mypassword in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 48
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in 
+20211103T053031: responsesync.net/index.php
+PHP Notice:  Undefined variable: mypassword in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 48
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in 
+20211103T053049: responsesync.net/index.php
+PHP Notice:  Undefined variable: mypassword in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 48
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in 
+20211103T053122: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 98
+
+20211103T053128: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 98
+
+20211103T053232: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 95
+PHP Warning:  Cannot modify header information - headers already sent by (output st
+20211103T053555: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 95
+PHP Warning:  Cannot modify header information - headers already sent by (output st
+20211103T053600: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 98
+
+20211103T053605: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 56
+PHP Notice:  Trying to access array offset on v
+20211103T053652: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 100
+
+20211103T053738: responsesync.net/index.php
+PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 98
+
+20211103T053801: responsesync.net/index.php
+PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 98
+
+20211103T053803: responsesync.net/index.php
+PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 98
+
+20211103T053804: responsesync.net/index.php
+PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 98
+
+20211103T053924: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 56
+PHP Notice:  Trying to access array offset on v
+20211103T053928: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 100
+
+20211103T054014: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 101
+
+20211103T054021: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 56
+PHP Notice:  Trying to access array offset on v
+20211103T054026: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 56
+PHP Notice:  Trying to access array offset on v
+20211103T054033: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 101
+
+20211103T054124: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 101
+
+20211103T054126: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 101
+
+20211103T054134: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 101
+
+20211103T054247: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 56
+PHP Notice:  Trying to access array offset on v
+20211103T054249: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 102
+
+20211103T054327: responsesync.net/index.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 4
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 73
+PHP Warning:  Cannot modify header information - headers already sent by (output sta
+20211103T054329: responsesync.net/index.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 4
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 73
+PHP Warning:  Cannot modify header information - headers already sent by (output sta
+20211103T054330: responsesync.net/index.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 4
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 73
+PHP Warning:  Cannot modify header information - headers already sent by (output sta
+20211103T054331: responsesync.net/index.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 4
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 73
+PHP Warning:  Cannot modify header information - headers already sent by (output sta
+20211103T054631: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 101
+
+20211103T055101: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 101
+
+20211103T055127: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 101
+
+20211103T055345: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 92
+PHP Warning:  Cannot modify header information - headers already sent by (output st
+20211103T060439: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 92
+PHP Warning:  Cannot modify header information - headers already sent by (output st
+20211103T060608: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 92
+PHP Warning:  Cannot modify header information - headers already sent by (output st
+20211103T060620: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 92
+PHP Warning:  Cannot modify header information - headers already sent by (output st
+20211103T060621: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 92
+PHP Warning:  Cannot modify header information - headers already sent by (output st
+20211103T060621: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 92
+PHP Warning:  Cannot modify header information - headers already sent by (output st
+20211103T060622: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 92
+PHP Warning:  Cannot modify header information - headers already sent by (output st
+20211103T060622: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 92
+PHP Warning:  Cannot modify header information - headers already sent by (output st
+20211103T060624: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 72
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 92
+PHP Warning:  Cannot modify header information - headers already sent by (output st
+20211103T060732: responsesync.net/index.php
+PHP Warning:  session_start(): Cannot start session when headers already sent in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 71
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php:1) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 100
+
+20211103T062828: responsesync.net/pages/index.php
+PHP Warning:  require(db/config.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 2
+PHP Fatal error:  require(): Failed opening required 'db/config.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 2
+
+20211103T062902: responsesync.net/pages/index.php
+PHP Warning:  require(db/config.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 2
+PHP Fatal error:  require(): Failed opening required 'db/config.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 2
+
+20211103T062944: responsesync.net/pages/index.php
+PHP Warning:  require(db/config.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 2
+PHP Fatal error:  require(): Failed opening required 'db/config.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 2
+
+20211103T091945: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 56
+PHP Notice:  Trying to access array offset on v
+20211103T092056: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 56
+PHP Notice:  Trying to access array offset on v
+20211103T094009: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211103T094332: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: isASB in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/sidebar.php on line 21
+PHP Notice:  Undefined variable: isASC in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/sidebar.php on line 28
+PHP Notice:  Undefined variable: isASD in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/sidebar.php on line 35
+PHP Notice:  Undefined variable: isASH in /hermes/bosnacweb05/bosnacweb05au/b
+20211103T094456: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: isASB in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/sidebar.php on line 21
+PHP Notice:  Undefined variable: isASC in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/sidebar.php on line 28
+PHP Notice:  Undefined variable: isASD in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/sidebar.php on line 35
+PHP Notice:  Undefined variable: isASH in /hermes/bosnacweb05/bosnacweb05au/b
+20211103T095439: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211103T102101: responsesync.net/pages/profile.php
+PHP Warning:  require(db/sesssion.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+PHP Fatal error:  require(): Failed opening required 'db/sesssion.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+
+20211103T102124: responsesync.net/pages/profile.php
+PHP Warning:  require(db/sesssion.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+PHP Fatal error:  require(): Failed opening required 'db/sesssion.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+
+20211103T102126: responsesync.net/pages/profile.php
+PHP Warning:  require(db/sesssion.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+PHP Fatal error:  require(): Failed opening required 'db/sesssion.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+
+20211103T102437: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211103T102439: responsesync.net/index.php
+PHP Notice:  Undefined index: UnitFloor in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 63
+
+20211103T102444: responsesync.net/pages/profile.php
+PHP Warning:  require(db/sesssion.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+PHP Fatal error:  require(): Failed opening required 'db/sesssion.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+
+20211103T102633: responsesync.net/pages/profile.php
+PHP Warning:  require(db/sesssion.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+PHP Fatal error:  require(): Failed opening required 'db/sesssion.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+
+20211103T102640: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211103T102641: responsesync.net/index.php
+PHP Notice:  Undefined index: UnitFloor in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 63
+
+20211103T102645: responsesync.net/pages/profile.php
+PHP Warning:  require(db/sesssion.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+PHP Fatal error:  require(): Failed opening required 'db/sesssion.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+
+20211103T102806: responsesync.net/pages/profile.php
+PHP Warning:  require(db/sesssion.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+PHP Fatal error:  require(): Failed opening required 'db/sesssion.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+
+20211103T103120: responsesync.net/pages/profile.php
+PHP Warning:  require(db/session.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+PHP Fatal error:  require(): Failed opening required 'db/session.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+
+20211103T103122: responsesync.net/pages/profile.php
+PHP Warning:  require(db/session.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+PHP Fatal error:  require(): Failed opening required 'db/session.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 2
+
+20211103T103522: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211103T103837: responsesync.net/pages/index.php
+PHP Warning:  include(../db/sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+PHP Warning:  include(): Failed opening '../db/sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+
+20211103T103905: responsesync.net/pages/index.php
+PHP Notice:  Undefined variable: fullName in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar.php on line 7
+PHP Notice:  Undefined variable: email in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar.php on line 8
+
+20211103T103908: responsesync.net/pages/index.php
+PHP Notice:  Undefined variable: fullName in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar.php on line 7
+PHP Notice:  Undefined variable: email in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar.php on line 8
+
+20211103T103939: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211103T103942: responsesync.net/pages/index.php
+PHP Notice:  Undefined variable: fullName in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar.php on line 7
+PHP Notice:  Undefined variable: email in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar.php on line 8
+
+20211103T104211: responsesync.net/pages/index.php
+PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+
+20211103T104232: responsesync.net/pages/index.php
+PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+
+20211103T104310: responsesync.net/pages/index.php
+PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+
+20211103T104328: responsesync.net/pages/index.php
+PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+
+20211103T104401: responsesync.net/pages/index.php
+PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+
+20211103T104430: responsesync.net/pages/index.php
+PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+
+20211103T104432: responsesync.net/pages/index.php
+PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+
+20211103T104451: responsesync.net/pages/index.php
+PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+
+20211103T104557: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T104603: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T104609: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T104749: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T114220: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T114255: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T114607: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T144220: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T164628: www.responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T174214: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T174216: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T185630: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T204316: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T231852: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T232019: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T232048: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T232050: responsesync.net/index.php
+PHP Warning:  require(sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+PHP Fatal error:  require(): Failed opening required 'sidebar/userinfo.php' (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 116
+
+20211103T233048: responsesync.net/pages/index.php
+PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+
+20211103T233056: responsesync.net/pages/index.php
+PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+
+20211103T233102: responsesync.net/pages/index.php
+PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 117
+
+20211103T233220: responsesync.net/pages/index.php
+PHP Warning:  include(../sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 118
+PHP Warning:  include(): Failed opening '../sidebar/userinfo.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 118
+
+20211103T233223: responsesync.net/pages/index.php
+PHP Warning:  include(../sidebar/userinfo.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 118
+PHP Warning:  include(): Failed opening '../sidebar/userinfo.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/index.php on line 118
+
+20211103T233710: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211103T233716: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211103T233720: responsesync.net/pages/profile.php
+PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 96
+PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/usr/share/php') in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 96
+
+20211103T234345: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211103T234348: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211103T234413: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211103T234539: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211103T234709: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211103T234906: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211103T234938: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211103T235036: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211103T235310: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211103T235751: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: phone in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 15
+PHP Notice:  Undefined index: telephone in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 16
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.m
+20211103T235754: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211103T235756: responsesync.net/pages/index.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211103T235802: responsesync.net/pages/index.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211103T235804: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T000039: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T000045: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T000254: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T000318: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T000433: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T000440: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T000445: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T000552: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T000706: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T000908: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T001022: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T001035: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T002447: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T002448: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003050: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003332: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003453: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003536: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003538: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003642: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003644: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003708: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003710: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003717: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003718: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003739: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003740: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003741: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003741: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003741: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003742: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003742: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003749: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003820: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003822: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003845: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003846: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003848: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T003904: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T004006: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T004814: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T005032: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 243
+
+20211104T005105: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 245
+
+20211104T005304: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 159
+
+20211104T005359: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+
+20211104T005628: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T005919: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T005939: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T005941: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T005942: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T010014: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T010034: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T010035: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T010036: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T010041: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T010042: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T010053: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T010256: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T010425: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T010917: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+PHP Notice:  Undefined variable: unitFloot in /hermes/bosnacweb05/bosnacwe
+20211104T011218: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T011316: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T011355: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T011410: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T011413: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T011420: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T011429: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T011431: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T011432: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T011434: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T011447: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T011622: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T011812: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T012439: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T012441: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T012556: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T012559: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T012602: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 247
+
+20211104T012720: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 270
+
+20211104T012744: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 270
+
+20211104T012745: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 270
+
+20211104T012748: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 270
+
+20211104T012816: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 265
+
+20211104T012833: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 265
+
+20211104T012834: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 265
+
+20211104T012924: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 270
+
+20211104T012926: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 270
+
+20211104T012937: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 270
+
+20211104T012940: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 270
+
+20211104T012942: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 270
+
+20211104T013126: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 270
+
+20211104T013128: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 270
+
+20211104T014901: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+
+20211104T014928: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 331
+
+20211104T014931: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 331
+
+20211104T015005: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 331
+
+20211104T015022: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 331
+
+20211104T015024: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+
+20211104T015027: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+
+20211104T015035: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 331
+
+20211104T015220: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 331
+
+20211104T015222: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+
+20211104T015253: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+
+20211104T015516: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 331
+
+20211104T015518: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+
+20211104T015550: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+
+20211104T015553: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T015555: responsesync.net/pages/index.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211104T015559: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 331
+
+20211104T015647: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 331
+
+20211104T015649: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+PHP Notice:  Undefined variable: birthday in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 331
+
+20211104T015730: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T015732: responsesync.net/pages/index.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211104T015735: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+
+20211104T015810: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+
+20211104T015848: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 165
+
+20211104T020013: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211104T020049: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211104T020052: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T020054: responsesync.net/pages/index.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211104T020057: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211104T020154: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211104T020159: responsesync.net/pages/profile.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211104T020201: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T020204: responsesync.net/pages/index.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211104T020232: responsesync.net/pages/index.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211104T020238: responsesync.net/pages/index.php
+PHP Notice:  Undefined variable: cares_imgDir in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/sidebar/userinfo.php on line 4
+
+20211104T020708: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T023010: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023037: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023116: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023123: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023148: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023152: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023203: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023248: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023331: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023436: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023437: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023448: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023500: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+
+20211104T023509: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T023750: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T023752: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 55
+PHP Notice:  Trying to access array offset on v
+20211104T023759: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 55
+PHP Notice:  Trying to access array offset on v
+20211104T023806: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 55
+PHP Notice:  Trying to access array offset on v
+20211104T023810: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 55
+PHP Notice:  Trying to access array offset on v
+20211104T023824: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 55
+PHP Notice:  Trying to access array offset on v
+20211104T023827: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 55
+PHP Notice:  Trying to access array offset on v
+20211104T023831: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 55
+PHP Notice:  Trying to access array offset on v
+20211104T023836: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 55
+PHP Notice:  Trying to access array offset on v
+20211104T024109: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T024117: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 55
+PHP Notice:  Trying to access array offset on v
+20211104T024301: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 55
+PHP Notice:  Trying to access array offset on v
+20211104T024852: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T024910: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T025138: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: userId in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 8
+PHP Notice:  Undefined index: username in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 9
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+PHP Notice:  Undefined index: fullName in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/ses
+20211104T025234: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: userId in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 8
+PHP Notice:  Undefined index: username in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 9
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+PHP Notice:  Undefined index: fullName in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/ses
+20211104T025258: responsesync.net/pages/profile.php
+PHP Notice:  Undefined index: userId in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 8
+PHP Notice:  Undefined index: username in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 9
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+PHP Notice:  Undefined index: fullName in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/ses
+20211104T025259: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T031317: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T031501: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T032222: responsesync.net/pages/profile.php
+PHP Parse error:  syntax error, unexpected ''.$target_file.'' (T_CONSTANT_ENCAPSED_STRING) in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/pages/profile.php on line 223
+
+20211104T032442: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T032456: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T032630: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T032643: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T032659: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T032737: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T035619: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T042542: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211104T050323: responsesync.net/pages/index.php
+PHP Notice:  Undefined index: userId in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 8
+PHP Notice:  Undefined index: username in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 9
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+PHP Notice:  Undefined index: fullName in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/ses
+20211104T050323: responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211105T233127: responsesync.net/index.php
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 53
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 54
+PHP Notice:  Trying to access array offset on value of type null in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/index.php on line 55
+PHP Notice:  Trying to access array offset on v
+20211105T233500: www.responsesync.net/pages/earthquake.php
+PHP Notice:  Undefined index: userId in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 8
+PHP Notice:  Undefined index: username in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 9
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+PHP Notice:  Undefined index: fullName in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/ses
+20211105T233501: www.responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
+20211105T233531: www.responsesync.net/pages/earthquake.php
+PHP Notice:  Undefined index: userId in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 8
+PHP Notice:  Undefined index: username in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 9
+PHP Notice:  Undefined index: password in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/session.php on line 10
+PHP Notice:  Undefined index: fullName in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/ses
+20211105T233531: www.responsesync.net/db/logout.php
+PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /hermes/bosnacweb05/bosnacweb05au/b2690/ipg.mortachristine2196157/db/logout.php on line 2
+
